@@ -1,0 +1,4 @@
+enum ProjectState {
+  inProcess,
+  finished
+}
